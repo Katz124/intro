@@ -17,6 +17,5 @@ h2{text-transform:capitalize;
   background-color:#0a2540;
   border-radius:30px;
   background-clip: content-box;
-  width:200px;
-  margin:0 40% 0 40%;
+  padding:0 40% 0 40%;
 }
