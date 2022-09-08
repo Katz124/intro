@@ -7,7 +7,6 @@ h1{text-transform:uppercase;
   color:rgb(60, 179, 113);
   letter-spacing:10px;
   font-weight:bold;
-  border-bottom:solid RGB(0);
   text-align:center;
 }
 
@@ -18,5 +17,6 @@ h2{text-transform:capitalize;
   background-color:#0a2540;
   border-radius:30%;
   background-clip: content-box;
-  width:200px
+  width:200px;
+  padding:0 0 10% 0;
 }
