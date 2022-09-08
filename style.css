@@ -4,11 +4,10 @@ body{background-color:rgb(230, 247, 255)}
 
 h1{text-transform:uppercase;
   font-size:4em;
-  padding:0rem 0 0.5em 0rem;
   color:rgb(60, 179, 113);
   letter-spacing:10px;
   font-weight:bold;
-  border-bottom:solid;
+  border-bottom:solid RGB(255,255,255);
   text-align:center;
 }
 
@@ -17,6 +16,6 @@ h2{text-transform:capitalize;
   color:rgb(255,255,255);
   text-align:center;
   background-color:#0a2540;
-  border-radius:5%;
+  border-radius:round;
   background-clip: content-box
 }
