@@ -3,9 +3,9 @@ html{font-family: 'Noto Sans TC', sans-serif}
 body{background-color:rgb(230, 247, 255)}
 
 h1{text-transform:uppercase;
-  font-size:5rem;
+  font-size:8rem;
   color:rgb(60, 179, 113);
-  letter-spacing:10px;
+  letter-spacing:8px;
   font-weight:bold;
   text-align:center;
 }
@@ -15,7 +15,7 @@ h2{text-transform:capitalize;
   color:rgb(255,255,255);
   text-align:center;
   background-color:#0a2540;
-  border-radius:30%;
+  border-radius:30px;
   background-clip: content-box;
   width:200px;
   padding:0 0 10% 0;
