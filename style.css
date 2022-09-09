@@ -1,21 +1,47 @@
-html{font-family: 'Noto Sans TC', sans-serif}
-
-body{background-color:rgb(230, 247, 255)}
-
-h1{text-transform:uppercase;
-  font-size:8rem;
-  color:rgb(60, 179, 113);
-  letter-spacing:8px;
-  font-weight:bold;
-  text-align:center;
+html {
+    font-family: 'Noto Sans TC', sans-serif
 }
 
-h2{text-transform:capitalize;
-  font-weight:bold;
-  color:rgb(255,255,255);
-  text-align:center;
-  background-color:#0a2540;
-  border-radius:30px;
-  background-clip: content-box;
-  padding:0 40% 0 40%;
+body {
+    background-color: rgb(230, 247, 255);
+}
+
+h1 {
+    text-transform: uppercase;
+    font-size: 100px;
+    color: rgb(60, 179, 113);
+    letter-spacing: 8px;
+    font-weight: 900;
+    text-align: center;
+    margin: 0;
+
+}
+
+.first {
+    text-transform: uppercase;
+    font-weight: 900;
+    color: rgb(255, 255, 255);
+    /* text-align: center; */
+    background-color: #0a2540;
+    border-radius: 50px;
+    DISPLAY: inline-block;
+}
+
+.second {
+    text-transform: uppercase;
+    font-weight: 900;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    background-color: #0a2540;
+    border-radius: 50px;
+    DISPLAY: inline-block;
+}
+
+div {
+    height: 10%;
+    margin: calc(6%/14);
+}
+
+footer {
+    text-align: right
 }
